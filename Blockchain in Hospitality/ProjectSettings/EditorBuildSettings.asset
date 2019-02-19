@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 98b04d87641695a47a8a1b0d79470dde
+  - enabled: 1
+    path: Assets/Scenes/Booking.unity
+    guid: d06db99ef36994e4cbb417751fd727d6
+  - enabled: 1
+    path: Assets/Scenes/Rooms.unity
+    guid: 994c5e2769848f647ab19895a13570c3
+  - enabled: 1
+    path: Assets/Scenes/Reservations.unity
+    guid: 84a4cd447954fff48b565e288479e4e8
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 365f4007135d6354482dfa3aff86628f
+  - enabled: 1
+    path: Assets/Scenes/Logged HomeScreen.unity
+    guid: 1d012ba2dac472743ae0c6549975f5ca
   m_configObjects: {}
