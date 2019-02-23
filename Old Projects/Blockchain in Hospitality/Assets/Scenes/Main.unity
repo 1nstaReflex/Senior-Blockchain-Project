@@ -678,9 +678,16 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD:Old Projects/Blockchain in Hospitality/Assets/Scenes/Main.unity
   - component: {fileID: 584811048}
   - component: {fileID: 584811050}
   - component: {fileID: 584811049}
+=======
+  - component: {fileID: 1204520347}
+  - component: {fileID: 1204520346}
+  - component: {fileID: 1204520345}
+  - component: {fileID: 1204520344}
+>>>>>>> parent of 5cf689b... Linked scenes together using scripts:Blockchain in Hospitality/Assets/Scenes/HomeScreen.unity
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -703,6 +710,7 @@ RectTransform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
+<<<<<<< HEAD:Old Projects/Blockchain in Hospitality/Assets/Scenes/Main.unity
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: -0.4999981}
   m_SizeDelta: {x: -20, y: -13}
@@ -750,6 +758,13 @@ CanvasRenderer:
   m_GameObject: {fileID: 584811047}
   m_CullTransparentMesh: 0
 --- !u!1 &1262888350
+=======
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!1 &1386266099
+>>>>>>> parent of 5cf689b... Linked scenes together using scripts:Blockchain in Hospitality/Assets/Scenes/HomeScreen.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1229,12 +1244,16 @@ MonoBehaviour:
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD:Old Projects/Blockchain in Hospitality/Assets/Scenes/Main.unity
     m_TypeName: UnityEngine.UI.InputField+SubmitEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.InputField+OnChangeEvent, UnityEngine.UI, Version=1.0.0.0,
+=======
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+>>>>>>> parent of 5cf689b... Linked scenes together using scripts:Blockchain in Hospitality/Assets/Scenes/HomeScreen.unity
       Culture=neutral, PublicKeyToken=null
   m_CaretColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_CustomCaretColor: 0
